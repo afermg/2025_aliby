@@ -1,0 +1,10 @@
+#+TITLE: Developer documentation
+
+* Generate the index
+Query Zenodo to generate an index linking all the files to their minimal metadata
+
+uv run src/generate_file_index.py
+
+* Sample analysis
+
+WIP
